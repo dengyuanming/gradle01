@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  hello gradle!
+  hello gradle! dev
   </body>
 </html>
